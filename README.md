@@ -1,6 +1,8 @@
 # file_manager
 
-A new Flutter project.
+Flutter project, experimental file manager.
+
+**it works on linux system**.
 
 ## Getting Started
 
@@ -14,3 +16,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Run on linux
+
+the documentation for run on desktop is [here](https://docs.flutter.dev/desktop)
+
+If you visited the above it, you can run the code:
+
+```
+$ flutter run -d linux 
+```
